@@ -1,0 +1,2 @@
+# vajirarama_bosatMagazine
+vajirarama_bosatMagazine
