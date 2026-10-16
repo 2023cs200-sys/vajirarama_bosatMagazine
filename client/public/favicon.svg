@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="BOSAT favicon">
+  <defs>
+    <linearGradient id="bosat-favicon-bg" x1="14" y1="10" x2="50" y2="54" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6c56d" />
+      <stop offset="1" stop-color="#d98a1f" />
+    </linearGradient>
+    <linearGradient id="bosat-favicon-mark" x1="20" y1="16" x2="44" y2="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff2cf" />
+      <stop offset="1" stop-color="#f3b84a" />
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="#2a1c12" />
+  <circle cx="32" cy="32" r="27" fill="url(#bosat-favicon-bg)" />
+  <circle cx="32" cy="32" r="21" fill="none" stroke="#fff7e6" stroke-opacity="0.68" stroke-width="1.5" />
+  <path d="M32 16c4.5 6 9 10.8 9 18a9 9 0 1 1-18 0c0-7.2 4.5-12 9-18z" fill="url(#bosat-favicon-mark)" />
+  <circle cx="32" cy="41.5" r="2.6" fill="#3b2618" />
+</svg>
